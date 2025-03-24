@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on a MERN project<be>
+<!--👯 I’m looking to collaborate on<be>-->
+<!--🤝 I’m looking for help with<be>-->
+<!--🌱 I’m currently learning MERN<be>-->
+<!--💬 Ask me about<br>⚡ Fun fact-->
 
 
 # 💻 Tech Stack:
