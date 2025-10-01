@@ -15,9 +15,9 @@
 
 - 💬 Ask me about *Python, C,Java and SQL*
 
-- 📫 How to reach me *ranaweeraimashi880@gmail.com*
+- 📫 How to reach me *mayomibhagya.mb@gmail.com*
 
-- ⚡ Fun fact *I am a Dog lover*
+- ⚡ Fun fact *I am a KDrama lover*
 </td>
 <td width="50%" align="center">
 
